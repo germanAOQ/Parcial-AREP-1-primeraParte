@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* edu.escuelaing.arep.TrigCalculator.TrigCalculator
+web: java $JAVA_OPTS -cp "target/classes:target/dependency/*" edu.escuelaing.arep.TrigCalculator.TrigCalculator
